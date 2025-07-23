@@ -23,7 +23,7 @@ Com ele, você pode:
 
 ---
 
-## 🧰 Como rodar o projeto no seu computador (passo a passo para leigos)
+## 🧰 Como rodar o projeto no seu computador 
 
 > ⚠️ Você precisa ter **Python 3 instalado**.  
 > Se não tiver, baixe aqui: [https://www.python.org/downloads](https://www.python.org/downloads)
