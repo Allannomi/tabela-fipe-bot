@@ -69,8 +69,6 @@ Clique em Iniciar
 Digite o comando:
 
 bash
-Copiar
-Editar
 /newbot
 Ele vai pedir:
 
